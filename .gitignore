@@ -1,0 +1,13 @@
+.venv/
+.env
+.qdrant/
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+eval/results/*.json
+eval/golden_synthetic.json
+.DS_Store
+.railway_state.json
+.qdrant-api/
+.qdrant-eval-*/
